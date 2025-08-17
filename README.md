@@ -29,7 +29,7 @@ Questions answered:
 Estimate the expected additional student activations per month per intervention by
 providing a lower and upper confidence/credibility bound for each intervention.
 
-2.Onsite school visits incur higher costs (travel & time) than virtual workshops.
+2. Onsite school visits incur higher costs (travel & time) than virtual workshops.
 How confident are you that onsite visits are worth continuing, considering they must be
 at least twice as effective as virtual workshops to be cost-justified?
 
